@@ -1,0 +1,25 @@
+{
+  "title": "Parsippany -Troy Hills STEM Pathways",
+  "outline": [
+    {
+      "level": "H2",
+      "text": "Science",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Math",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Applied Technology/",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Family Consumer Science and Other",
+      "page": 1
+    }
+  ]
+}
